@@ -28,6 +28,10 @@ i'm Daniel Qolami. Front-end developer. <br>tools I use: Nuxt 3, Vue 3, typescri
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielQolami&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+### Nuxter badge:
+[![DanielQolami Nuxter profile](https://nuxters.nuxt.com/_og/r/DanielQolami.png)](https://nuxters.nuxt.com/DanielQolami)
+
+---
 [![](https://visitcount.itsvg.in/api?id=DanielQolami&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
